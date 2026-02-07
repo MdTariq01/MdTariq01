@@ -1,7 +1,7 @@
 ## 💫 About Me:
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammad+Tariq+%F0%9F%91%8B;MERN+Stack+Developer+in+Progress;Learning+AI+%26+Machine+Learning;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Improving)](https://git.io/typing-svg)
-</div>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammad+Tariq+%F0%9F%91%8B;MERN+Stack+Developer;Learning+AI+%26+Machine+Learning;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Improving)](https://git.io/typing-svg)
+
 
 
 # 💻 Tech Stack:
