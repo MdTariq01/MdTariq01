@@ -1,5 +1,5 @@
 ## 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=40&duration=4200&pause=1000&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Mohammad+Tariq+👋;Aspiring+MERN+Stack+Developer;Learning+AI%2FML+%26+Data+Science;Building+Real-World+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=40&duration=4200&pause=1000&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Mohammad+Tariq+👋;Aspiring+MERN+Stack+Developer;Learning+AI%2FML+%26+Data+Science;Building+Real-World+Projects)]()
 
 
 
