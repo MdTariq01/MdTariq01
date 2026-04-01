@@ -25,11 +25,11 @@
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-2D0A0A?style=for-the-badge&logo=python&logoColor=B11226)
-![JavaScript](https://img.shields.io/badge/JavaScript-2D0A0A?style=for-the-badge&logo=javascript&logoColor=B11226)
-![TypeScript](https://img.shields.io/badge/TypeScript-2D0A0A?style=for-the-badge&logo=typescript&logoColor=B11226)
+![Python](https://img.shields.io/badge/Python-2D0A0A?style=for-the-badge&logo=python&logoColor=E63946)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D0A0A?style=for-the-badge&logo=javascript&logoColor=E63946)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D0A0A?style=for-the-badge&logo=typescript&logoColor=DC3545)
 ![C](https://img.shields.io/badge/C-2D0A0A?style=for-the-badge&logo=c&logoColor=B11226)
-![C++](https://img.shields.io/badge/C++-2D0A0A?style=for-the-badge&logo=cplusplus&logoColor=B11226)
+![Java](https://img.shields.io/badge/Java-2D0A0A?style=for-the-badge&logo=c&logoColor=B11226)
 
 ---
 
