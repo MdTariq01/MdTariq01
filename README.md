@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=40&duration=4200&pause=1000&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Mohammad+Tariq+👋;Aspiring+MERN+Stack+Developer;Learning+AI%2FML+%26+Data+Science;Building+Real-World+Projects)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=40&duration=4200&pause=1000&center=true&vCenter=true&width=750&height=70&color=FF0000&lines=Hi%2C+I'm+Mohammad+Tariq+👋;Aspiring+MERN+Stack+Developer;Learning+AI%2FML+%26+Data+Science;Building+Real-World+Projects)]()
 ## 💫 About Me:
 - 🔭 I’m currently working on AI-powered applications and backend systems.
 - 👯 I’m looking to collaborate with developers building AI or full-stack projects.
